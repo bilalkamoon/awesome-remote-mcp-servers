@@ -2433,6 +2433,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Rumoro](https://rumoro.dev/) `https://mcp.rumoro.dev/mcp`
   [![Rumoro MCP connector](https://glama.ai/mcp/connectors/dev.rumoro/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.rumoro/mcp)
   🔓 - Track brand, competitor and topic mentions across 16 sources, scored for relevance and intent; tools need sign-in.
+- [Say It Again](https://sayitagain.ai/docs/api) `https://app.sayitagain.ai/mcp`
+  [![Say It Again MCP connector](https://glama.ai/mcp/connectors/ai.sayitagain/sayitagain/badges/score.svg)](https://glama.ai/mcp/connectors/ai.sayitagain/sayitagain)
+  🔐 - Read a store's product page, write 3 scripts and make an AI UGC video with a generated presenter.
 - [Scribe Mail](https://www.scribe-mail.com/mcp) `https://mcp.scribe-mail.com/mcp`
   [![Scribe Mail MCP connector](https://glama.ai/mcp/connectors/com.scribe-mail/scribe/badges/score.svg)](https://glama.ai/mcp/connectors/com.scribe-mail/scribe)
   🔐 - Manage company email signatures: author and publish templates, assign teammates, run banner campaigns, read analytics.
